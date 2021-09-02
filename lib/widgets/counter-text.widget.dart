@@ -1,4 +1,3 @@
-
 import 'package:app/models/counter.model.dart';
 import 'package:app/pages/home.page.dart';
 import 'package:flutter/material.dart';
